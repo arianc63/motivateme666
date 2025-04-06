@@ -1,0 +1,11 @@
+{
+  "name": "motivateme",
+  "version": "1.0.0",
+  "description": "A simple CLI tool that prints a random motivational message.",
+  "main": "index.js",
+  "bin": {
+    "motivateme": "index.js"
+  },
+  "author": "arianc63",
+  "license": "MIT"
+}
