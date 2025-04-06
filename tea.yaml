@@ -1,0 +1,10 @@
+project:
+  name: motivateme
+  description: A tiny motivational CLI app that prints a simple encouraging message.
+  url: https://github.com/arianc63/motivateme
+  tags:
+    - javascript
+    - motivation
+    - cli
+  maintainers:
+    - github: arianc63
