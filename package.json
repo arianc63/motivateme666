@@ -1,11 +1,13 @@
 {
   "name": "motivateme",
   "version": "1.0.0",
-  "description": "A simple CLI tool that prints a random motivational message.",
+  "description": "simple motivational project for tea",
   "main": "index.js",
-  "bin": {
-    "motivateme": "index.js"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arianc63/motivateme.git"
   },
-  "author": "arianc63",
+  "author": "arian",
   "license": "MIT"
 }
+
