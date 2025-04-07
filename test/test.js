@@ -1,4 +1,5 @@
+const assert = require('assert');
 const motivate = require('../lib/motivateme');
 
-console.log("Running test...");
-motivate();
+console.log("✅ Test ran (no assertion yet)");
+

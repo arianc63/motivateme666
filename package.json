@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "test": "echo \"No test yet\""
+    "test": "node test/test.js"
   },
   "engines": {
     "node": ">=16"
