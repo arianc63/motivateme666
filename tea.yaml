@@ -1,17 +1,5 @@
-project:
-  name: motivateme
-  description: A tiny motivational CLI app that prints a simple encouraging message.
-  url: https://github.com/arianc63/motivateme
-  tags:
-    - javascript
-    - motivation
-    - cli
-  maintainers:
-    - github: arianc63
-
-codeOwners:
-  - 0x751aa3cDE6bef7F30212cAe36De5b94e89830366
-  - 0xC16e4F1237C7d7414a4DED7A4bADB2899AF6e91A
-
-quorum: 1
+# https://tea.xyz/what-is-this-file
 version: 1.0.0
+codeOwners:
+  - '0x751aa3cDE6bef7F30212cAe36De5b94e89830366'
+quorum: 1

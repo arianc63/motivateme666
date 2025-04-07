@@ -1,14 +1,11 @@
-# motvateme
+# MotivateMe
 
-A tiny motivational app that prints a simple encouraging message.
+A simple motivational project for the Tea Protocol.
 
-## What it does
+## Getting Started
 
-This project prints a motivational line in the console:
-> "Stay motivated, you got this! 💪"
+Install dependencies (if any), then run the app:
 
-## How to use
-
-```bash
+`bash
 node index.js
 
