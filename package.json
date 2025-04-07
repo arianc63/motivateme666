@@ -5,9 +5,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arianc63/motivateme.git"
+    "url": "https://github.com/arianc63/motivateme"
   },
-  "author": "arian",
+  "homepage": "https://github.com/arianc63/motivateme#readme",
+  "bugs": {
+    "url": "https://github.com/arianc63/motivateme/issues"
+  },
+  "author": "arianc63",
   "license": "MIT"
 }
 
