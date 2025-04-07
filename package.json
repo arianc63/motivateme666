@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "simple motivational project for tea",
   "main": "index.js",
+  "type": "module", 
   "homepage": "https://github.com/arianc63/motivateme666#readme",
   "bugs": {
     "url": "https://github.com/arianc63/motivateme666/issues"
@@ -20,6 +21,8 @@
   },
   "engines": {
     "node": ">=16"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
   }
 }
-

@@ -1,3 +1,3 @@
-const motivate = require('./lib/motivateme');
+import motivate from './lib/motivateme.js';
 motivate();
 

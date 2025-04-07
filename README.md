@@ -4,10 +4,10 @@
 
 ## Description
 
-`motivateme666` prints a short motivational message to the terminal to keep developers inspired throughout the day.
+motivateme666 prints a short motivational message to the terminal to keep developers inspired throughout the day.
 
 ## Installation
 
-```bash
-npm install
+`bash
+npm install -g motivateme666
 
