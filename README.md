@@ -1,11 +1,9 @@
-# MotivateMe
+# motivateme666
 
-A simple motivational project for the Tea Protocol.
+A simple motivational project for the [tea protocol](https://tea.xyz).
 
-## Getting Started
+## 📦 Installation
 
-Install dependencies (if any), then run the app:
-
-`bash
-node index.js
+```bash
+npm install motivateme666
 

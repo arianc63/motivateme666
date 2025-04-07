@@ -1,1 +1,3 @@
-console.log("Stay motivated, you got this! 💪")
+const motivate = require('./lib/motivateme');
+motivate();
+
