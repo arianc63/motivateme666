@@ -1,5 +1,8 @@
 # https://tea.xyz/what-is-this-file
 version: 1.0.0
+name: motivateme666
+description: simple motivational project for tea protocol
+license: MIT
 codeOwners:
   - '0xC16e4F1237C7d7414a4DED7A4bADB2899AF6e91A'
 quorum: 1
